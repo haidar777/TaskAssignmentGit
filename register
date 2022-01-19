@@ -1,3 +1,4 @@
 register {
   fungsi untuk register;
+  fungsi untuk register menggunakan facebook;
 }
